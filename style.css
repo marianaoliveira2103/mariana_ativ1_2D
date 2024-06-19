@@ -3,7 +3,9 @@ h1 {color: burlywood;}
 
 .p3{text-align: center;
     font-size: 150%;
-     color: rgb(126, 6, 30);}
+     color: rgb(126, 6, 30);
+     border-color: black;
+     border-style: groove;}
 
 .p1{border-width: 5px;
     border-color: rgb(29, 5, 51);
@@ -14,3 +16,10 @@ h1 {color: burlywood;}
     padding-top: 5%;}
 
     .p1 {background-color: firebrick;}
+
+.p2{border-color: black;
+    border-style: groove;}
+
+
+.p4{border-color: black;
+    border-style: groove;}
